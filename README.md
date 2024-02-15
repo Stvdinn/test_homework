@@ -28,8 +28,8 @@ https://github.com/Stvdinn/git_1
 ```
 Поле для вставки кода...
 vboxuser@vm3:~/git_1/git_1$ nano .gitignore 
+
 vboxuser@vm3:~/git_1/git_1$ git commit -m 'New rules'
-[main 5f030b5] New rules
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 .gitignore
  
