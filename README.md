@@ -18,14 +18,14 @@ Writing objects: 100% (3/3), 265 bytes | 265.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/Stvdinn/git_1
  f09f3ae..c01ecbb  main -> main
-
 ---
+
+
+```
 
 ### Задание 2
 https://github.com/Stvdinn/git_1
 
-
-```
 Поле для вставки кода...
 vboxuser@vm3:~/git_1/git_1$ nano .gitignore 
 
