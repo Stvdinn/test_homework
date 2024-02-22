@@ -7,6 +7,8 @@
 
 https://github.com/Stvdinn/git_1 
 
+https://github.com/Stvdinn/git_1/commit/c01ecbb3ab39ecf8f72d650f6a505eb07a624885  - ссылка на коммит
+
 ```
 Поле для вставки кода...
 vboxuser@vm3:~/git_1/git_1$ git push origin main
@@ -24,9 +26,15 @@ To https://github.com/Stvdinn/git_1
 ```
 
 ### Задание 2
-https://github.com/Stvdinn/git_1
 
+https://github.com/Stvdinn/git_1/commit/5f030b59278cf7b23d5ee8efb17c23045661ba30#diff-bc37d034bad564583790a46f19d807abfe519c5671395fd494d8cce506c42947  
+
+
+
+
+```
 Поле для вставки кода...
+....
 vboxuser@vm3:~/git_1/git_1$ nano .gitignore 
 
 vboxuser@vm3:~/git_1/git_1$ git commit -m 'New rules'
@@ -50,6 +58,7 @@ vboxuser@vm3:~/git_1/git_1$ cat .gitignore
 *рус
 cache/
 
+```
 ---
 
 ### Задание 3
@@ -57,12 +66,7 @@ cache/
 https://github.com/Stvdinn/git_1/network
 
 
-Поле для вставки кода...
-....
-....
-....
-....
-```
+
 
 
 
